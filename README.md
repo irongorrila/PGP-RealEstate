@@ -14,15 +14,15 @@ Dataset Description
 
 Following are the themes the fields fall under Home Owner Costs: Sum of utilities, property taxes.
 
-	Second Mortgage: Households with a second mortgage statistics.
-	Home Equity Loan: Households with a Home equity Loan statistics.
-	Debt: Households with any type of debt statistics.
-	Mortgage Costs: Statistics regarding mortgage payments, home equity loans, utilities and property taxes
-	Home Owner Costs: Sum of utilities, property taxes statistics
-	Gross Rent: Contract rent plus the estimated average monthly cost of utility features
-	Gross Rent as Percent of Income Gross rent as the percent of income very interesting
-	High school Graduation: High school graduation statistics.
-	Population Demographics: Population demographic statistics.
-	Age Demographics: Age demographic statistics.
-	Household Income: Total income of people residing in the household.
-	Family Income: Total income of people related to the householder.
+* Second Mortgage: Households with a second mortgage statistics.
+* Home Equity Loan: Households with a Home equity Loan statistics.
+* Debt: Households with any type of debt statistics.
+* Mortgage Costs: Statistics regarding mortgage payments, home equity loans, utilities and property taxes
+* Home Owner Costs: Sum of utilities, property taxes statistics
+* Gross Rent: Contract rent plus the estimated average monthly cost of utility features
+* Gross Rent as Percent of Income Gross rent as the percent of income very interesting
+* High school Graduation: High school graduation statistics.
+* Population Demographics: Population demographic statistics.
+* Age Demographics: Age demographic statistics.
+* Household Income: Total income of people residing in the household.
+* Family Income: Total income of people related to the householder.
